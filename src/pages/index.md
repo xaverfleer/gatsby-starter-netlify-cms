@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Best coffee with a conscience
+title: Best coffee from Xaver
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
